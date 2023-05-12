@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![image](https://github.com/aasim-syed/Chat-engine-UI/assets/70385414/ff098587-98e4-4d10-b670-9e0c27852fca)
+![image](https://github.com/aasim-syed/Chat-engine-UI/assets/70385414/b6144da3-af70-4041-b8f9-c1b561c3fe2b)
 
 ## Available Scripts
 
